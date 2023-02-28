@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rali-el-kohen
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Msc Artificial Intellignece and Data Science at Paris-Dauphine
+- 🌱 I’m currently learning Msc Artificial Intelligence and Data Science at Paris-Dauphine
 - 📫 How to reach me : ralielkohen@gmail.com
 
 <!---
