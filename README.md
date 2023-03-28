@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rali-el-kohen
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Msc Artificial Intelligence and Data Science at Paris-Dauphine
+- 🍀 I'm a Data Scientist passionated about the environment and climate change
 - 📫 How to reach me : ralielkohen@gmail.com
+- 📘 Linkedin : https://www.linkedin.com/in/rali-el-kohen/
 
 <!---
 Rali-el-kohen/Rali-el-kohen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
